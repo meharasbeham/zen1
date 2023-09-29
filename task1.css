@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Diplomata+SC&family=Montserrat:ital,wght@1,700&family=Satisfy&display=swap');
+
+body{
+    font-family:'Courier New', Courier, monospace'';
+    
+}
+.container{
+    background-color: aqua;
+    padding: 10px;
+}
+button{
+    border-radius: 25px;
+    background-color: rgb(242, 200, 149);
+}
+input{
+    border-radius: 25px;
+    background-color: rgb(240, 240, 50);
+}
+.im{
+    padding: 5px;
+    display: flex;
+}
